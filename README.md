@@ -1,9 +1,9 @@
-Name: Gabrian Nicholas Negoro
-Timezone: UTC+7
-Pronoun card: https://en.pronouns.page/@ctrlaltspace
-I'm Not a Robot: https://drive.google.com/open?id=1uh9ZsEUPsxHaPo9CW-1UC3Ev7lbS0Hfm
-Email: gabrian.nichoals123@gmail.com
-Username is the same on all platforms
+ - Name: Gabrian Nicholas Negoro
+ - Timezone: UTC+7
+ - Pronoun card: https://en.pronouns.page/@ctrlaltspace
+ - I'm Not a Robot: https://drive.google.com/open?id=1uh9ZsEUPsxHaPo9CW-1UC3Ev7lbS0Hfm
+ - Email: gabrian.nichoals123@gmail.com
+ - Username is the same on all platforms
 
 <!--
 **CtrlAltSpace/CtrlAltSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
