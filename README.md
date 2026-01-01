@@ -4,5 +4,5 @@
  - Email: gabrian.nichoals123@gmail.com
  - Username is the same on all platforms
 
- - Current project: MarineScope 1.0
+ - Current project: MarineScope 1.0 (Done, coming out very very soon)
  - Upcoming projects: MarineScope 2.0, INTGR
