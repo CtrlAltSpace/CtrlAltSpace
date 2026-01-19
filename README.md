@@ -4,5 +4,5 @@
  - Email: gabrian.nicholas123@gmail.com
  - Username is the same on all platforms
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- - Current project: MarineScope 1.0 (Done, coming out February 1st, 2025 UTC +7 time (Delayed even more for (IDK what it's called) purposes)
+ - Current project: Helpdesk
  - Upcoming projects: MarineScope 2.0, INTGR
