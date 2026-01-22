@@ -3,6 +3,7 @@
  - Timezone: UTC +7
  - I'm Not a Robot: https://drive.google.com/open?id=1uh9ZsEUPsxHaPo9CW-1UC3Ev7lbS0Hfm
  - Email: gabrian.nicholas123@gmail.com
+ - INTGR email: intgr-org@proton.me
  - Username is the same on all platforms
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  - Current project: Helpdesk
