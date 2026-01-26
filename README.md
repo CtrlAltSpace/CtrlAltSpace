@@ -7,4 +7,4 @@
  - Username is the same on all platforms
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  - Current project: Helpdesk
- - Upcoming projects: INTGR (INTGR is an upcoming indie mathematics bases factory game made by CtrlAltSpace. You can find more information about INTGR on the discord server: https://discord.gg/mUmErCwUPm. If you are a Python developer, and want to contribute to INTGR, please contact CtrlAltSpace through his email.)
+ - Upcoming projects: INTGR (INTGR is an upcoming indie mathematics bases factory game made by CtrlAltSpace. You can find more information about INTGR on the discord server: https://discord.gg/nDPYaZnbmc. If you are a Python developer, and want to contribute to INTGR, please contact CtrlAltSpace through his email.)
