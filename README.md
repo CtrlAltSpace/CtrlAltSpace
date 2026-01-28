@@ -6,5 +6,6 @@
  - INTGR email: intgr-org@proton.me
  - Username is the same on all platforms
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- - Current project: INTGR (INTGR is an indie mathematics bases factory game made by CtrlAltSpace. You can find more information about INTGR on the discord server: https://discord.gg/nDPYaZnbmc. If you are a Python developer, and want to contribute to INTGR, please contact CtrlAltSpace through the INTGR email.)
+ - Current project: Financial manager
+ - Future project: INTGR (INTGR is an indie mathematics bases factory game made by CtrlAltSpace. You can find more information about INTGR on the discord server: https://discord.gg/nDPYaZnbmc. If you are a Python developer, and want to contribute to INTGR, please contact CtrlAltSpace through the INTGR email.)
  - Upcoming projects: MarineScope 2.0
