@@ -6,6 +6,6 @@
  - INTGR email: intgr-org@proton.me
  - Username is the same on all platforms
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- - Current project: People counter
- - Future project: INTGR (INTGR is an indie game about making microchips. You can find more information about INTGR on the discord server: https://discord.gg/nDPYaZnbmc. If you are a game developer, and want to contribute to INTGR, please contact CtrlAltSpace through the INTGR email.)
+ - Current project: Gem
+ - Future project: None
  - Upcoming projects: None
