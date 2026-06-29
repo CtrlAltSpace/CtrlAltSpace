@@ -4,6 +4,5 @@
  - Email: ctrlaltspace.prod@proton.me
  - Username is the same on all platforms
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- - Current project: Gem
- - Future project: None
- - Upcoming projects: None
+ - Current projects: Gem, Attendly Community ver.
+ - Upcoming projects: Gem Premium, Attendly Pro
