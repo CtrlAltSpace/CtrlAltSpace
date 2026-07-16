@@ -1,6 +1,6 @@
-# 💫 About Me:
+💫 About Me:
 Name: Gabrian Nicholas Negoro<br>Location: Indonesia<br>Timezone: UTC +7<br>Email: ctrlaltspace.prod@proton.me<br>Username is the same on all platforms<br>
----
+
 Current projects: <br> - Gem<br> - Attendly Community ver.<br>Upcoming projects:<br> - Gem Premium<br> - Attendly Pro
 
 
