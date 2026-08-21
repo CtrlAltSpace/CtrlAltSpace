@@ -1,5 +1,5 @@
 # 💫 About Me:<br>
-Name: Gabrian Nicholas Negoro<br>Location: Indonesia<br>Timezone: UTC +7<br>Email: ctrlaltspace.prod@proton.me
+Location: Indonesia<br>Timezone: UTC +7<br>Email: ctrlaltspace.prod@proton.me
 
 
 ## 🌐 Socials:
