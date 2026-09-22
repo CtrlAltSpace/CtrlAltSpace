@@ -1,5 +1,5 @@
 # 💫 About Me:<br>
-Hi! I'm hte the founder & owner of CurioSpace Labs and the main developer in it. I really enjoy programming, and I build software using my curiosity.
+Hi! I'm the the founder & owner of CurioSpace Labs and the main developer in it. I really enjoy programming, and I build software using my curiosity.
 
 
 ## 🌐 Socials:
